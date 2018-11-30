@@ -1,0 +1,25 @@
+/* --- FONT --- */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+
+/* --- COMPONENTS DESIGN --- */
+
+/* --- GRADIENT (https://cssgradient.io) --- */
+/* @import url("components/gradient/background-linear-gradient.css"); */
+/* @import url("components/gradient/background-radial-gradient.css"); */
+@import url("components/gradient/text-gradient.css");
+
+/* --- BORDER RADIUS (https://9elements.github.io/fancy-border-radius/) --- */
+/* @import url("components/radius/fancy-border-radius.css"); */
+
+/* --- BUTTON --- */
+@import url("components/button/button-1.css");
+
+/* --- CARD --- */
+@import url("components/card/card-1.css");
+
+
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+}

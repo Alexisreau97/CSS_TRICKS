@@ -1,0 +1,15 @@
+/* --- TEXT GRADIENT --- */
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(45deg, #ed4eb5, #c943fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 
+   to right = ??
+   to bottom = 90deg 
+   to left = 45deg
+   to top = -90deg 
+*/

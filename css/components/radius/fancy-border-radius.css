@@ -1,0 +1,10 @@
+/* --- FANCY BOREDR RADIUS --- */
+
+.fancy-border-radius {
+	width: 500px;
+	height: 500px;
+	background: #ff5e3a;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #ff5e3a, #ff2a68);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #ff5e3a, #ff2a68); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-radius: 78% 22% 40% 60% / 40% 22% 78% 60%;
+}
